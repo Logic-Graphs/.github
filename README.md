@@ -1,5 +1,7 @@
 # Logic Graphs
 
+Logic Graphs is a project aimed at developing languages, methods, and tools for semantic-oriented ontology visualization
+
 ## Publications
 - [Logic graphs: Complete, semantic-oriented and easy to learn visualization method for OWL DL language](http://ceur-ws.org/Vol-2893/paper_3.pdf)
 - [Logic Graphs: A complete visualization method for logical languages based on Ch. S. Peirce's existential graphs](http://ceur-ws.org/Vol-2344/paper8.pdf)
