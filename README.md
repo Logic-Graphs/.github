@@ -4,7 +4,7 @@ Logic Graphs is a project aimed at developing languages, methods, and tools for 
 
 ## Web application
 
-https://github.com/Logic-Graphs/web-app
+[https://github.com/Logic-Graphs/web-app](https://github.com/Logic-Graphs/web-app)
 
 ## Publications
 - [Logic graphs: Complete, semantic-oriented and easy to learn visualization method for OWL DL language](http://ceur-ws.org/Vol-2893/paper_3.pdf)
