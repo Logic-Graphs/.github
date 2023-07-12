@@ -12,3 +12,4 @@ Logic Graphs is a project aimed at developing languages, methods, and tools for 
 - [Logic Graphs for ALC, SHIF and SHOIN Description Logics](https://fruct.org/publications/acm27/files/Tha.pdf)
 - [Non-Empirical Metrics for Ontology Visualizations Evaluation and Comparing](http://ceur-ws.org/Vol-2744/paper25.pdf)
 - [Developing Non-Empirical Metrics and Tools for Ontology Visualizations Evaluation and Comparing](http://sv-journal.org/2020-4/07/en.pdf)
+- [Generating Visualizations of Ontologies in the Logic Graphs Language](https://ieeexplore.ieee.org/abstract/document/9770908)
